@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I´m Shanthan Rao Kanuganti
 
 <!--
 **shanthanrao1312/shanthanrao1312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
